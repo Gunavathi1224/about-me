@@ -1,31 +1,21 @@
-
 import './App.css';
-
 function App() {
   return (
     <div className="App">
-      
-    <center>
-        <h1>GUNAVATHI</h1>
+     <h1>GUNAVATHI</h1>
         <h3>WEB DEVELOPER</h3>
         <hr></hr>
 
         <h5>5/43 pasupathikovil thanjavur</h5>
         <h5>rgunawathi200870@gmail.com</h5>
         <h5>9344568988</h5>
-        <hr></hr>
-    </center>
-
-    <center> 
+        <hr></hr>    
       <h3>PROFILE</h3>
       <P>
       I am qualified and professional web developer.Strong creative and analytical skills.team player with an eye for details.Seeking for an entry level opportunities with an eseteemed organisation where i can utilise my skills and enhance learning in the field of work.
       </P>
       <hr></hr>
-    </center>
-    
-        <center>
-            <h3>TECHNICAL SKILLS</h3>
+ <h3>TECHNICAL SKILLS</h3>
        <ul>
            <li> html</li>
            <li>css</li>
@@ -53,10 +43,7 @@ function App() {
           <h3>CERTIFICATION</h3>
           <h4>Full stack development</h4>
           <h5>Novitech I Coimbatore</h5>
-        
-        </center>
-
-    </div>
+        </div>
   );
 }
 
